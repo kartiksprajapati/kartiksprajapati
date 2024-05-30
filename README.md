@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+- 🥉 I’m honored to have won the bronze medal in Web Technology at the IndiaSkills 2024 National Competition
+
 - 🔭 Self-taught full stack web developer diving into Laravel, Vue.JS, Python, Go, MySQL, MongoDB, and more.
 
-- 🌱 Learning and staying updated on trends in full stack web dev, Android, backend, DevOps, and Automation.
+- 🌱 Learning and staying updated on trends in full stack web dev, backend and Automation.
 
 - 🤔 Looking for help staying current with tech trends and embracing the ever-evolving tech landscape.
 
